@@ -1,0 +1,14 @@
+h1{
+    color: red;
+}
+body{
+    background-color: gray;
+}
+.container{
+    background-color: maroon;
+    height: 500;
+    width: 500;
+}
+#marginx{
+    color: aqua;
+}
